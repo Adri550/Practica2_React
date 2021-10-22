@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/Practica2_React/static/css/main.63166c35.chunk.css",
-    "main.js": "/Practica2_React/static/js/main.6fe96f38.chunk.js",
-    "main.js.map": "/Practica2_React/static/js/main.6fe96f38.chunk.js.map",
-    "runtime-main.js": "/Practica2_React/static/js/runtime-main.896be9bd.js",
-    "runtime-main.js.map": "/Practica2_React/static/js/runtime-main.896be9bd.js.map",
-    "static/css/2.0a9ec390.chunk.css": "/Practica2_React/static/css/2.0a9ec390.chunk.css",
-    "static/js/2.a8907829.chunk.js": "/Practica2_React/static/js/2.a8907829.chunk.js",
-    "static/js/2.a8907829.chunk.js.map": "/Practica2_React/static/js/2.a8907829.chunk.js.map",
-    "static/js/3.c855c6be.chunk.js": "/Practica2_React/static/js/3.c855c6be.chunk.js",
-    "static/js/3.c855c6be.chunk.js.map": "/Practica2_React/static/js/3.c855c6be.chunk.js.map",
+    "main.css": "/Practica2_React/static/css/main.55d0fdfd.chunk.css",
+    "main.js": "/Practica2_React/static/js/main.de74284a.chunk.js",
+    "main.js.map": "/Practica2_React/static/js/main.de74284a.chunk.js.map",
+    "runtime-main.js": "/Practica2_React/static/js/runtime-main.a8acb6b4.js",
+    "runtime-main.js.map": "/Practica2_React/static/js/runtime-main.a8acb6b4.js.map",
+    "static/css/2.4659568d.chunk.css": "/Practica2_React/static/css/2.4659568d.chunk.css",
+    "static/js/2.e8f5d917.chunk.js": "/Practica2_React/static/js/2.e8f5d917.chunk.js",
+    "static/js/2.e8f5d917.chunk.js.map": "/Practica2_React/static/js/2.e8f5d917.chunk.js.map",
+    "static/js/3.9400bb17.chunk.js": "/Practica2_React/static/js/3.9400bb17.chunk.js",
+    "static/js/3.9400bb17.chunk.js.map": "/Practica2_React/static/js/3.9400bb17.chunk.js.map",
     "index.html": "/Practica2_React/index.html",
-    "static/css/2.0a9ec390.chunk.css.map": "/Practica2_React/static/css/2.0a9ec390.chunk.css.map",
-    "static/css/main.63166c35.chunk.css.map": "/Practica2_React/static/css/main.63166c35.chunk.css.map",
-    "static/js/2.a8907829.chunk.js.LICENSE.txt": "/Practica2_React/static/js/2.a8907829.chunk.js.LICENSE.txt",
+    "static/css/2.4659568d.chunk.css.map": "/Practica2_React/static/css/2.4659568d.chunk.css.map",
+    "static/css/main.55d0fdfd.chunk.css.map": "/Practica2_React/static/css/main.55d0fdfd.chunk.css.map",
+    "static/js/2.e8f5d917.chunk.js.LICENSE.txt": "/Practica2_React/static/js/2.e8f5d917.chunk.js.LICENSE.txt",
     "static/media/basura.27a5d826.jpg": "/Practica2_React/static/media/basura.27a5d826.jpg",
     "static/media/logo.6ce24c58.svg": "/Practica2_React/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.896be9bd.js",
-    "static/css/2.0a9ec390.chunk.css",
-    "static/js/2.a8907829.chunk.js",
-    "static/css/main.63166c35.chunk.css",
-    "static/js/main.6fe96f38.chunk.js"
+    "static/js/runtime-main.a8acb6b4.js",
+    "static/css/2.4659568d.chunk.css",
+    "static/js/2.e8f5d917.chunk.js",
+    "static/css/main.55d0fdfd.chunk.css",
+    "static/js/main.de74284a.chunk.js"
   ]
 }
